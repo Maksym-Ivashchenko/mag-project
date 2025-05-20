@@ -256,9 +256,9 @@ html {
 
 .cta {
   margin: 0 auto;
-  padding: 100px 0px;
+  padding: 150px 0px;
   max-width: 1440px;
-  background: url(../images/cta.png);
+  background: url(../images/cta.png) no-repeat;
 }
 
 .cta-container {
